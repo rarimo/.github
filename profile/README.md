@@ -9,6 +9,7 @@
 ### Contracts
 - [evm-bridge-contracts](https://github.com/rarimo/evm-bridge-contracts)
 - [solana-bridge-program](https://github.com/rarimo/solana-bridge-program)
+- [near-contracts](https://github.com/rarimo/near-contracts)
 
 ### Cross-chain core
 - [rarimo-core](https://github.com/rarimo/rarimo-core)
