@@ -14,6 +14,7 @@
 ### Cross-chain core
 - [rarimo-core](https://github.com/rarimo/rarimo-core)
 - [tss-svc](https://github.com/rarimo/tss-svc)
+- [developer-edition](https://github.com/rarimo/developer-edition)
 
 ### Bridging backend
 - [broadcaster-svc](https://github.com/rarimo/broadcaster-svc)
