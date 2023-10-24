@@ -25,6 +25,7 @@
 - [relayer-svc](https://github.com/rarimo/relayer-svc)
 
 ### Scan
+- [scan](https://github.com/rarimo/scan)
 - [bdjuno](https://github.com/rarimo/bdjuno)
 - [hasura-migrations](https://github.com/rarimo/hasura-migrations)
 
