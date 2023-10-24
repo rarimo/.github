@@ -1,7 +1,8 @@
 ## Rarimo Repositories overview
 
-### SDK
+### NFT Checkout
 - [js-sdk](https://github.com/rarimo/js-sdk)
+- [dex-pairs-oracle](https://github.com/rarimo/dex-pairs-oracle)
 
 ### RariMe Metamask snap
 - [rarime](https://github.com/rarimo/rarime)
