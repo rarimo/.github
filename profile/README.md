@@ -23,4 +23,11 @@
 - [evm-identity-saver-svc](https://github.com/rarimo/evm-identity-saver-svc)
 - [horizon-svc](https://github.com/rarimo/horizon-svc)
 - [relayer-svc](https://github.com/rarimo/relayer-svc)
+
+### Scan
+- [bdjuno](https://github.com/rarimo/bdjuno)
+- [hasura-migrations](https://github.com/rarimo/hasura-migrations)
+
+### Integrations
+- [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
   
