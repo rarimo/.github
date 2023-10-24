@@ -32,3 +32,5 @@
 ### Integrations
 - [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
   
+### Other
+- [proxy-svc](https://github.com/rarimo/proxy-svc)
