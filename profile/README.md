@@ -33,6 +33,9 @@
 
 ### Integrations
 - [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
+
+### Landings
+- [landing-rarime](https://github.com/rarimo/landing-rarime)
   
 ### Other
 - [proxy-svc](https://github.com/rarimo/proxy-svc)
