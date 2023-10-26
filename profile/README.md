@@ -36,6 +36,7 @@
 
 ### Landings
 - [landing-rarime](https://github.com/rarimo/landing-rarime)
+- [landing-rarimo](https://github.com/rarimo/landing-rarimo)
   
 ### Other
 - [proxy-svc](https://github.com/rarimo/proxy-svc)
