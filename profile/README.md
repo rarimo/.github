@@ -22,6 +22,7 @@
 - [broadcaster-svc](https://github.com/rarimo/broadcaster-svc)
 - [sol-saver-svc](https://github.com/rarimo/sol-saver-svc)
 - [near-saver-svc](https://github.com/rarimo/near-saver-svc)
+- [evm-saver-svc](https://github.com/rarimo/evm-saver-svc)
 - [evm-identity-saver-svc](https://github.com/rarimo/evm-identity-saver-svc)
 - [horizon-svc](https://github.com/rarimo/horizon-svc)
 - [relayer-svc](https://github.com/rarimo/relayer-svc)
