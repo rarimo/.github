@@ -26,6 +26,7 @@
 - [evm-identity-saver-svc](https://github.com/rarimo/evm-identity-saver-svc)
 - [horizon-svc](https://github.com/rarimo/horizon-svc)
 - [relayer-svc](https://github.com/rarimo/relayer-svc)
+- [identity-relayer-svc](https://github.com/rarimo/identity-relayer-svc)
 
 ### Scan
 - [scan](https://github.com/rarimo/scan)
