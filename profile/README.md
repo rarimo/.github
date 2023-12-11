@@ -35,6 +35,7 @@
 
 ### Integrations
 - [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
+- [collabland-rarimo-poh-action](https://github.com/rarimo/collabland-rarimo-poh-action)
 
 ### Landings
 - [landing-rarime](https://github.com/rarimo/landing-rarime)
