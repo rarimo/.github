@@ -8,6 +8,10 @@
 ### RariMe Metamask snap
 - [rarime](https://github.com/rarimo/rarime)
 
+### RariMe Dashboard
+- [dashboard-rarime](https://github.com/rarimo/dashboard-rarime)
+- [dashboard-rarime-link-svc](https://github.com/rarimo/dashboard-rarime-link-svc)
+
 ### Contracts
 - [evm-bridge-contracts](https://github.com/rarimo/evm-bridge-contracts)
 - [solana-bridge-program](https://github.com/rarimo/solana-bridge-program)
