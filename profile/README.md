@@ -8,7 +8,7 @@
 ### RariMe Metamask snap
 - [rarime](https://github.com/rarimo/rarime)
 
-### RariMe Dashboard
+### RariMe App
 - [dashboard-rarime](https://github.com/rarimo/dashboard-rarime)
 - [dashboard-rarime-link-svc](https://github.com/rarimo/dashboard-rarime-link-svc)
 
