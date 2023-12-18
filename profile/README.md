@@ -10,7 +10,8 @@
 
 ### RariMe App
 - [dashboard-rarime](https://github.com/rarimo/dashboard-rarime)
-- [dashboard-rarime-link-svc](https://github.com/rarimo/dashboard-rarime-link-svc)
+- [rarime-link-svc](https://github.com/rarimo/rarime-link-svc)
+- [rarime-orgs-svc](https://github.com/rarimo/rarime-orgs-svc)
 
 ### Contracts
 - [evm-bridge-contracts](https://github.com/rarimo/evm-bridge-contracts)
