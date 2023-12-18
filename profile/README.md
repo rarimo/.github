@@ -9,7 +9,7 @@
 - [rarime](https://github.com/rarimo/rarime)
 
 ### RariMe App
-- [dashboard-rarime](https://github.com/rarimo/dashboard-rarime)
+- [rarime-app](https://github.com/rarimo/rarime-app)
 - [rarime-link-svc](https://github.com/rarimo/rarime-link-svc)
 - [rarime-orgs-svc](https://github.com/rarimo/rarime-orgs-svc)
 
