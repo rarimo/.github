@@ -48,3 +48,4 @@
   
 ### Other
 - [proxy-svc](https://github.com/rarimo/proxy-svc)
+- [auth-svc](https://github.com/rarimo/auth-svc)
