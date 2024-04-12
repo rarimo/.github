@@ -22,11 +22,6 @@
 - [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
 - [collabland-rarimo-poh-action](https://github.com/rarimo/collabland-rarimo-poh-action)
 
-### NFT Checkout
-- [js-sdk](https://github.com/rarimo/js-sdk)
-- [dex-pairs-oracle](https://github.com/rarimo/dex-pairs-oracle)
-- [checkout-svc](https://github.com/rarimo/checkout-svc)
-
 ### Contracts
 - [evm-bridge-contracts](https://github.com/rarimo/evm-bridge-contracts)
 - [solana-bridge-program](https://github.com/rarimo/solana-bridge-program)
