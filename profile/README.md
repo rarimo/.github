@@ -1,17 +1,31 @@
 ## Rarimo Repositories overview
 
+### Decentralized identity
+- [circuits](https://github.com/rarimo/passport-zk-circuits)
+- [contracts](https://github.com/rarimo/passport-contracts)
+
+### FreedomTool
+- [contracts](https://github.com/rarimo/voting-contracts)
+- [circuits](https://github.com/rarimo/passport-zk-circuits)
+- [iOS](https://github.com/rarimo/FreedomTool)
+- [Android](https://github.com/rarimo/FreedomToolAndroid)
+- [web-voting](https://github.com/rarimo/freedomtool-web-voting)
+- [identity-provider](https://github.com/rarimo/passport-identity-provider)
+
+### Proof of Humanity
+- [snap](https://github.com/rarimo/rarime)
+- [web-app](https://github.com/rarimo/web-client-robotornot)
+- [humanornot-svc](https://github.com/rarimo/humanornot-svc)
+- [issuer-node](https://github.com/rarimo/issuer-node)
+
+### Integrations
+- [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
+- [collabland-rarimo-poh-action](https://github.com/rarimo/collabland-rarimo-poh-action)
+
 ### NFT Checkout
 - [js-sdk](https://github.com/rarimo/js-sdk)
 - [dex-pairs-oracle](https://github.com/rarimo/dex-pairs-oracle)
 - [checkout-svc](https://github.com/rarimo/checkout-svc)
-
-### RariMe Metamask snap
-- [rarime](https://github.com/rarimo/rarime)
-
-### RariMe App
-- [rarime-app](https://github.com/rarimo/rarime-app)
-- [rarime-link-svc](https://github.com/rarimo/rarime-link-svc)
-- [rarime-orgs-svc](https://github.com/rarimo/rarime-orgs-svc)
 
 ### Contracts
 - [evm-bridge-contracts](https://github.com/rarimo/evm-bridge-contracts)
@@ -37,10 +51,6 @@
 - [scan](https://github.com/rarimo/scan)
 - [bdjuno](https://github.com/rarimo/bdjuno)
 - [hasura-migrations](https://github.com/rarimo/hasura-migrations)
-
-### Integrations
-- [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
-- [collabland-rarimo-poh-action](https://github.com/rarimo/collabland-rarimo-poh-action)
 
 ### Landings
 - [landing-rarime](https://github.com/rarimo/landing-rarime)
