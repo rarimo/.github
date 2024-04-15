@@ -18,6 +18,18 @@
 - [humanornot-svc](https://github.com/rarimo/humanornot-svc)
 - [issuer-node](https://github.com/rarimo/issuer-node)
 
+### World ID State Replication
+- [contracts](https://github.com/rarimo/worldid-integration-contracts)
+- [oracle](https://github.com/rarimo/evm-worldcoin-saver-svc)
+- [relayer](https://github.com/rarimo/worldcoin-relayer-svc)
+- [web-app](https://github.com/rarimo/web-client-worldcoin-id)
+
+### Polygon ID State Replication
+- [contracts](https://github.com/rarimo/polygonid-integration-contracts)
+- [oracle](https://github.com/rarimo/evm-identity-saver-svc)
+- [relayer](https://github.com/rarimo/identity-relayer-svc)
+- [web-app](https://github.com/rarimo/web-client-polygonid)
+
 ### Integrations
 - [questn-integration-svc](https://github.com/rarimo/questn-integration-svc)
 - [collabland-rarimo-poh-action](https://github.com/rarimo/collabland-rarimo-poh-action)
@@ -37,20 +49,10 @@
 - [sol-saver-svc](https://github.com/rarimo/sol-saver-svc)
 - [near-saver-svc](https://github.com/rarimo/near-saver-svc)
 - [evm-saver-svc](https://github.com/rarimo/evm-saver-svc)
-- [evm-identity-saver-svc](https://github.com/rarimo/evm-identity-saver-svc)
 - [horizon-svc](https://github.com/rarimo/horizon-svc)
 - [relayer-svc](https://github.com/rarimo/relayer-svc)
-- [identity-relayer-svc](https://github.com/rarimo/identity-relayer-svc)
 
 ### Scan
 - [scan](https://github.com/rarimo/scan)
 - [bdjuno](https://github.com/rarimo/bdjuno)
 - [hasura-migrations](https://github.com/rarimo/hasura-migrations)
-
-### Landings
-- [landing-rarime](https://github.com/rarimo/landing-rarime)
-- [landing-rarimo](https://github.com/rarimo/landing-rarimo)
-  
-### Other
-- [proxy-svc](https://github.com/rarimo/proxy-svc)
-- [auth-svc](https://github.com/rarimo/auth-svc)
