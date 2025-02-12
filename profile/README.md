@@ -23,6 +23,6 @@
 
 ### Experimental
 
-- [zk-biometric circtuits](https://github.com/rarimo/zk-biometrics)
+- [zk-biometric circuits](https://github.com/rarimo/zk-biometrics)
 - [zk-biometrics-contracts](https://github.com/rarimo/zk-biometrics-contracts)
 - [zk-biometrics-svc](https://github.com/rarimo/zk-biometrics-svc)
