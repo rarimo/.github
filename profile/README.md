@@ -20,9 +20,3 @@
 - [web-voting](https://github.com/rarimo/freedomtool-web-voting)
 - [identity-provider](https://github.com/rarimo/passport-identity-provider)
 - [relayer](https://github.com/rarimo/proof-verification-relayer)
-
-### Experimental
-
-- [zk-biometric circuits](https://github.com/rarimo/zk-biometrics)
-- [zk-biometrics-contracts](https://github.com/rarimo/zk-biometrics-contracts)
-- [zk-biometrics-svc](https://github.com/rarimo/zk-biometrics-svc)
