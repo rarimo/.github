@@ -14,10 +14,6 @@
 - [verificator-svc](https://github.com/rarimo/verificator-svc)
 
 ### FreedomTool
-- [contracts](https://github.com/rarimo/voting-contracts)
-- [circuits](https://github.com/rarimo/passport-zk-circuits)
-- [iOS](https://github.com/rarimo/FreedomTool)
-- [Android](https://github.com/rarimo/FreedomToolAndroid)
-- [web-voting](https://github.com/rarimo/freedomtool-web-voting)
-- [identity-provider](https://github.com/rarimo/passport-identity-provider)
+- [contracts](https://github.com/rarimo/passport-voting-contracts)
+- [web](https://github.com/rarimo/freedomtool-web-ui)
 - [relayer](https://github.com/rarimo/proof-verification-relayer)
